@@ -1,9 +1,9 @@
-#Tic Tac Toe Game
+# Tic Tac Toe Game
 
-##Description
+## Description
 This is a web-based implementation of the classic Tic Tac Toe game. It offers two game modes: Person vs Person and Person vs Computer. The game is built using HTML, CSS, and JavaScript modules.
 
-##Features
+## Features
 Two game modes:
 Person vs Person
 Person vs Computer
