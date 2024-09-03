@@ -8,7 +8,7 @@ export function initGame() {
         [0, 4, 8], [2, 4, 6]
     ];
     let option = ["", "", "", "", "", "", "", "", ""];
-    let currPlayer = "X";
+    let currPlayer = "person";
     let running = false;
 
     function cellClicked() {
@@ -28,11 +28,11 @@ export function initGame() {
     function updateCell(cell, index) {
         option[index] = currPlayer;
         cell.textContent = currPlayer;
-        cell.style.color = (currPlayer == "X") ? "#21a9e0" : "#f67e0a";
+        cell.style.color = (currPlayer == "person") ? "#21a9e0" : "#f67e0a";
     }
 
     function changePlayer() {
-        currPlayer = (currPlayer == "X") ? "O" : "X";
+        currPlayer = (currPlayer == "person") ? "computer" : "person";
         staticText.textContent = `${currPlayer}'s Turn`;
     }
 
