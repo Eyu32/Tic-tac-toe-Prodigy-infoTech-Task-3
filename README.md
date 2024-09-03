@@ -5,8 +5,8 @@ This is a web-based implementation of the classic Tic Tac Toe game. It offers tw
 
 ## Features
 Two game modes:
-Person vs Person
-Person vs Computer
-Interactive UI with dynamic updates
-Easy to reset and restart the game
-Simple and clean design
+     Person vs Person <br>
+     Person vs Computer <br>
+    Interactive UI with dynamic updates <br>
+    Easy to reset and restart the game <br>
+    Simple and clean design
