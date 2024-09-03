@@ -9,3 +9,5 @@ This is a web-based implementation of the classic Tic Tac Toe game. It offers tw
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻Person vs Computer <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎆Interactive UI with dynamic updates <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤳Simple and clean design
+### 👇check out the LiveView:
+&nbsp;&nbsp;&nbsp;&nbsp;https://eyu32.github.io/Tic-tac-toe-Prodigy-infoTech-Task-3/
